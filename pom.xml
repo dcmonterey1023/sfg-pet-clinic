@@ -37,9 +37,8 @@
             </plugin>
         </plugins>
     </build>
-
-
-  <scm>
-      <developerConnection>scm:git:https://github.com/dcmonterey1023/sfg-pet-clinic.git</developerConnection>
-  </scm>
+      <scm>
+          <url>https://github.com/dcmonterey1023/sfg-pet-clinic</url>
+          <connection>scm:git:https://github.com/dcmonterey1023/sfg-pet-clinic.git</connection>
+      </scm>
 </project>
