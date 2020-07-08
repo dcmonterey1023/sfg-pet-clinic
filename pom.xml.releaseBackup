@@ -39,4 +39,9 @@
         </plugins>
     </build>
 
+    <scm>
+              <url>https://github.com/dcmonterey1023/sfg-pet-clinic</url>
+              <connection>scm:git:https://github.com/dcmonterey1023/sspfg-pet-clinic.git</connection>
+          </scm>
+
 </project>
